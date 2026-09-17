@@ -205,11 +205,10 @@ Custom management systems with authentication, database operations, dashboards, 
   </a>
 </p>
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** shahidarslan988@gmail.com
 
-💼 **LinkedIn:** YOUR_LINKEDIN_URL
+💼 **LinkedIn:** https://www.linkedin.com/in/arslanshahid988/
 
-🌐 **Portfolio:** YOUR_PORTFOLIO_URL
 
 ---
 
